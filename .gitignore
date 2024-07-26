@@ -1,0 +1,12 @@
+*.parquet
+*.csv
+*.jpg
+/CMFX
+/results
+/results2
+/data
+/CMFX_RAW
+/40ghz_samples
+/.idea
+__pycache__/
+.DS_Store
